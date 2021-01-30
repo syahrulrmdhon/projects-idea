@@ -16,7 +16,8 @@ Create an online game portal: simple portal for users to read, post and discuss 
 
 ## Requirements
 
-- PERN Stack (Postgres, Express, React, NodeJs)
+- PERN Stack (Postgres, Express, React, NodeJs) or,
+- Postgres Laravel/Symfony/CodeIgniter/any PHP Framework as the Back End and React on the Frontend side.
 
 ## Bonus (optional, but good to have)
 
